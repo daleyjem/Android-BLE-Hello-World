@@ -91,7 +91,6 @@ public class MainActivity extends Activity {
             List<UUID> uuids = parseUUIDs(bytes);
 
             txtSignal.setText("LE scanned");
-            txtSignal.
         }
     };
 
